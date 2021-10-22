@@ -90,7 +90,7 @@ export const Main = () => {
   const classes = useStyles()
   return (
     <>
-      <h2 className={classes.title}>Dapp Token App</h2>
+      <h2 className={classes.title}>Dapp Url Shortener</h2>
       <RegisterForm />
       <UrlTable />
     </>
